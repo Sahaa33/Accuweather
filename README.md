@@ -1,2 +1,2 @@
 # Accuweather
-Android application for weather forecast (Acuuweather API used)
+Android application for weather forecast (AcuuWeather API used)
